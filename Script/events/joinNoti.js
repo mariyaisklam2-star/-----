@@ -41,7 +41,7 @@ ________________________\n\n𝐓𝐨 𝐯𝐢𝐞𝐰 𝐚𝐧𝐲 𝐜𝐨𝐦�
 
 ${global.config.PREFIX}Help\n${global.config.PREFIX} Manu
 
-𝐁𝐎𝐓 𝐍𝐀𝐌𝐄 :𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️
+𝐁𝐎𝐓 𝐍𝐀𝐌𝐄 :[ / ] • 𝗠𝗮𝗿𝗶𝘆𝗮 ☢️_𖣘 -𝗕𝗢𝗧𝗟𝗜 ⚠️
 
 \n\n⋆✦⋆⎯⎯⎯⎯⎯⎯⎯⎯⎯⋆✦⋆
 `, attachment: fs.createReadStream(__dirname + "/cache/ullash.mp4")} ,threadID));
